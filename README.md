@@ -7,7 +7,7 @@ This is not a generic domain summary.
 It’s a **practitioner’s analysis** of how each domain maps to real‑world AI deployments, what the exam is *actually* testing, and how these concepts show up in M365, Copilot Studio, MCP, and enterprise agentic AI environments.
 
 ---
-🌐 Live site: [View on GitHub Pages](https://tjames-env.github.io/cllmsp/) <br>
+🌐 Live site: [View on GitHub Pages](https://tjames-env.github.io/CLLMSP.html) <br>
 📝 Medium: [Read on Medium](https://medium.com/@timothy_jameseusebio/how-i-passed-the-cllmsp-llm-security-from-an-enterprise-practitioners-perspective-370098e770af)
 
 
